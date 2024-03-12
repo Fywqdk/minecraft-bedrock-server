@@ -1,3 +1,15 @@
+ALL CREDIT TO HEXLO - BUY THEM A COFFEE WITH THE LINK BELOW
+
+my updates:
+Changed sh scripts to (hopefully - I am new to this thing) get the latest Minecraft server version. Currently that is 1.20.71.01
+
+
+---------------------
+
+
+Original readme:
+
+
 [![Buy me a coffee](https://github.com/hexlo/terraria-server-docker/raw/gh-pages/assets/yellow-button-256w.png)](https://www.buymeacoffee.com/hexlo)  
 
 ```                
