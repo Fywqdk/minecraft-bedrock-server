@@ -10,7 +10,7 @@ ENV SERVER_DIR=/bedrock-server
 
 ENV LD_LIBRARY_PATH=${SERVER_DIR}
 
-ENV VERSION_FILE=${SERVER_DIR}/local-version.txt
+ENV VERSION_FILE=${SERVER_DIR}/info/version.txt
 
 RUN apt update && apt install -y curl unzip nano
 
